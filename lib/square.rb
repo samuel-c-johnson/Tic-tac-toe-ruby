@@ -2,7 +2,6 @@ class Square
   attr_reader :value
 
   def initialize
-    @value = ""
+    @value = " "
   end
-
-end
+end 
